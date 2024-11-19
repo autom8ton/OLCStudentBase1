@@ -69,4 +69,13 @@
 #    num = random.randint(1,47)
  #   print(num)
 
-2024 11-18
+#2024 11-18
+
+#num=int(input("what is the number that will be mutiplied with 5?"))
+#answer=int(5*num)
+#print('the answer is',answer)
+################################
+# times table program
+#num=int(input("what number?"))
+#for i in range(1,13):
+   # print(num,'x',i,'=',num * i)
